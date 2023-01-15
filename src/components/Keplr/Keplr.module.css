@@ -1,0 +1,24 @@
+.text{
+  font-weight: bold;
+  color: blue;
+}
+.none{
+  font-weight: bold;
+  color: red;
+}
+
+.error{
+  border: 1px solid red;
+}
+
+.input{
+  border-color: blue;
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
